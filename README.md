@@ -5,7 +5,7 @@
 
 🌱 I'm currently learning C/C++, PHP, Shell, JavaScript, Python, Java, Kotlin, and Dart.
 
-✍️ My main programming skills are C++, PHP, Shell and JavaScript.
+✍️ My main programming languages are C++, PHP, Shell and JavaScript.
 
 😙 My hobbies include painting, philosophy and Japanese.
 
