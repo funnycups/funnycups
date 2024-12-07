@@ -3,7 +3,7 @@
 <a href="https://www.pixiv.net/artworks/123761888" align="right"><img src="https://i.pixiv.re/img-original/img/2024/10/28/19/42/29/123761888_p0.png" alt="My painting" align="right" width="30%"></a>
 🔭 I’m an undergraduate student majoring in Computer Science.
 
-🌱 I'm currently learning C/C++, PHP, Shell, JavaScript, Python, Java, Kotlin, and Dart.
+🌱 I'm currently learning C/C++, PHP, Shell, JavaScript, Python, Java, Kotlin, Dart, and Rust.
 
 ✍️ My main programming languages are C++, PHP, Shell and JavaScript.
 
