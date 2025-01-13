@@ -9,7 +9,7 @@
 
 😙 My hobbies include painting, philosophy and Japanese.
 
-📫 Feel free to reach out to me via [my blog guestbook](https://www.xh-ws.com/guestbook.html).
+📫 Feel free to reach out to me via [my blog guestbook](https://www.cups.moe/guestbook.html).
 <!--
 **funnycups/funnycups** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
